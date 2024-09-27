@@ -1,0 +1,18 @@
+@media (max-width:768px){
+    .container {
+        width: 100%;
+    }  
+}
+
+@media (max-width:480px ){
+    .row{
+        flex-wrap: wrap;
+    }
+    .lessons .col{
+        width: 100%;
+    }
+    .steps .col{
+        width: 100%;
+    }
+
+}
