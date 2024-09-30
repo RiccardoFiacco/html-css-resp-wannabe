@@ -1,3 +1,7 @@
+.container{
+    max-width: 1140px;
+    width: 100px;
+}
 @media (max-width:768px){
     .container {
         width: 100%;
@@ -12,6 +16,9 @@
         width: 100%;
     }
     .steps .col{
+        width: 100%;
+    }
+    .why-us .col{
         width: 100%;
     }
     .steps.text-center{
